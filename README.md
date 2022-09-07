@@ -1,10 +1,10 @@
 # CommandLineParser-PolymorphicDLL
-2
+
 
 
 Edit a txt file in a user given path, parse file as either decimal or hexadecimal numbers and modify the file's content, with inputs from command line using a dynamic link library using Polymorphism in C++. Only using the standard language features STL (No third party libraries-Boost is used).
 
-3
+
 
 This polymorphic parser can work on both Windows and Linux OS.
 

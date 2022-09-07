@@ -26,7 +26,7 @@ You are invited to check documentation at https://docs.microsoft.com/en-us/cpp/b
 
 After cloning this repository to your machine : 
 
-    - Compile TestApp using Debugg x64 architecture on Visual Studio.
+    - Compile TestApp using Debug x64 architecture on Visual Studio.
     - Go to the scripts path ../TestApp/x64/Debug.
     - Open terminal in this directory and run the TestApp.exe with your inputs.
 
